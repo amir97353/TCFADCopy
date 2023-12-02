@@ -7,6 +7,6 @@ export default defineConfig({
 
   server: {
     port: 3000,
-    allowlist: ["src", "src/"],
+    allowlist: ["src", "src/assets"],
   },
 });
