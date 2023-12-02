@@ -5,12 +5,12 @@
   height: 20vh;
 }
 
-body {
+/* body {
   background-image: url("/Users/amir.saunders/Desktop/this-calls-for-a-drink copy/TCFAD/src/assets/cocktails3.jpeg");
   background-position: cover;
   background-repeat: repeat-x;
   background-position-x: center;
-}
+} */
 
 #card {
   margin: 18px;
