@@ -2,7 +2,7 @@ const DrinkRecipeData = [
   {
     id: 1,
     name: "ANNA BANANA",
-    image: "src/assets/AnnaBanna.webp",
+    image: "TCFAD/src/assets/AnnaBanna.webp",
     description:
       "The silly ‘What Cocktail Are You?’ online quizzes were the inspiration behind this cocktail",
     ingredients: [
@@ -20,7 +20,7 @@ const DrinkRecipeData = [
     description:
       "One sip of this cocktail and you’ll be imagining yourself on a tropical beach watching the sunrise.",
     name: "HENDRICK’S COCKTAIL",
-    image: "src/assets/Hendricks cococnut cocktail.webp",
+    image: "TCFAD/src/assets/Hendricks cococnut cocktail.webp",
     ingredients: [
       "1.5 parts Hendrick’s Gin",
       "3 part coconut water",
@@ -35,7 +35,7 @@ const DrinkRecipeData = [
     description:
       "This cocktail is an example of one of the rare times when more expensive whiskeys really shine in a sour format.",
     name: "3:10 TO YUZU",
-    image: "/src/assets/310 to yuma.webp",
+    image: "TCFAD/src/assets/310 to yuma.webp",
     ingredients: [
       "1 oz. High West Rendezvous Rye",
       "1 oz. Yamazaki 12 Single Malt (or comparable single malt, such as Balvenie 12 or Nikka Taketsuru Pure Malt)",
@@ -53,7 +53,7 @@ const DrinkRecipeData = [
     name: "REDHEAD",
     description:
       "This drink is a riff on a mule, one of the most popular and easily customizable vodka drinks out there",
-    image: "src/assets/redhead.webp",
+    image: "TCFAD/src/assets/redhead.webp",
     ingredients: [
       "3 parts Absolut Elyx",
       "2 parts carrot juice",
@@ -71,7 +71,7 @@ const DrinkRecipeData = [
     description:
       "This cocktail combines two of my obsessions: the negroni and ice wine.",
     name: "ROKU KOORI",
-    image: "/src/assets/Roku kori.webp",
+    image: "TCFAD/src/assets/Roku kori.webp",
     ingredients: [
       "1.5 parts Roku Gin",
       "0.75 part ice wine",
@@ -86,7 +86,7 @@ const DrinkRecipeData = [
   {
     id: 6,
     name: "MIDNIGHT MOCHI",
-    image: "src/assets/midnight mochi.webp",
+    image: "TCFAD/src/assets/midnight mochi.webp",
     description:
       "This cocktail gives vibes of enjoying a matcha latte from your favorite cafe",
     ingredients: [
@@ -104,7 +104,7 @@ const DrinkRecipeData = [
   {
     id: 7,
     name: "DIAMONDBACK",
-    image: "src/assets/diamondback.webp",
+    image: "TCFAD/src/assets/diamondback.webp",
     description: "This is an unusual powerhouse adaptation of a Manhattan",
     ingredients: [
       "1.5 oz. rye whiskey",
@@ -118,7 +118,7 @@ const DrinkRecipeData = [
     id: 8,
     name: "DAY TRIPPER",
     description: "Has a welcomed ‘unannounced’ ingredient no one would expect.",
-    image: "src/assets/daytripper.webp",
+    image: "TCFAD/src/assets/daytripper.webp",
     ingredients: [
       "1.5 part Hendrick’s Gin",
       "0.5 part 100% organic powdered turmeric",
